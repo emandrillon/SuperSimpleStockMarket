@@ -1,0 +1,8 @@
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\App.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\Stock.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\CommonStock.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\Enum\TypeTrade.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\PreferredStock.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\TradeRecorder.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\Enum\TypeStock.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\Trade.class

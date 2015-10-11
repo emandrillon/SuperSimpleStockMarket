@@ -1,0 +1,6 @@
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\DividendYieldTest.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\VolumeWeightedStockPriceTest.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\GBCETest.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\RecordTradeTest.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\AppTest.class
+com\jpmorgan\SkillTest\SuperSimpleStockMarket\PERatioTest.class
